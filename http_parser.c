@@ -24,6 +24,7 @@
 #include <ctype.h>
 #include <string.h>
 #include <limits.h>
+#include <stdio.h>
 
 static uint32_t max_header_size = HTTP_MAX_HEADER_SIZE;
 
